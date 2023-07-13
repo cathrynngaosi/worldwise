@@ -35,6 +35,42 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Greater London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-07-13T09:40:11.960Z",
+      "notes": "test",
+      "position": {
+        "lat": "51.481382896100975",
+        "lng": "-0.17578125"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Neuvy-Saint-Sepulchre",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-07-13T09:43:09.480Z",
+      "notes": "test 2",
+      "position": {
+        "lat": "46.58906908309185",
+        "lng": "1.8017578125000002"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Carros",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-07-13T09:47:44.522Z",
+      "notes": "test 3",
+      "position": {
+        "lat": "43.78695837311561",
+        "lng": "7.207031250000001"
+      },
+      "id": 98443200
     }
   ]
 }
